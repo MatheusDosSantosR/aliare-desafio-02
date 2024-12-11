@@ -38,7 +38,7 @@ Para as consultas, em sql foi realizado os testes no site oneCompiler criando as
 - **Passos**:
   1. Acesse a tela Fatu2022A.
   2. Verifique as opções disponíveis no campo "Confirmação da Previsão".
-- **Resultado Esperado**: O campo deve exibir as opções: Vazio, NÃO VALIDA, PENDENTE, CONFIRMADO. "Vazio" deve ser o padrão.
+- **Resultado Esperado**: O campo deve exibir as opções: Vazio, NÃO VALIDA, PENDENTE, CONFIRMADO. "NÃO VALIDA" deve ser o padrão.
 
 #### Caso de Teste 4: Garantir que o rateio de 100% é levado para a central
 
